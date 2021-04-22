@@ -1,0 +1,4 @@
+Conte£do inicial do arquivo
+
+stop
+git status
