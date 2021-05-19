@@ -1,0 +1,48 @@
+*{
+    margin: auto;
+    padding: auto;
+    background-color: rgb(25, 25, 25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.Logo{
+    display: flex;
+    width: 450px;
+    margin-left: 5px;
+    margin-bottom: 25px;
+}
+
+main p{
+    font-size: 26px;
+    margin-left: 5px;
+}
+
+nav ul li{
+    font-size: 45px;
+    display:inline;
+    background-color: rgba(25, 25, 25, 0.8);
+    margin-left: 20px;
+    margin-top: 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(145, 135, 135); 
+}
+
+main div img{
+    float: left;
+    display: flex;
+    width: 434px;
+    padding: 1px;
+}
+#Junindocéu{
+    width: 30%;
+    height: 550px;
+    float:left;
+}
+
+
+
+
+
+
